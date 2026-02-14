@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<title>Para você</title>
+<title>Oie meu docinho pao com banana 👀</title>
 <style>
 body {
   font-family: Arial, sans-serif;
@@ -21,7 +21,7 @@ section.active { display: block; }
 
 <body>
 
-<h1>💗</h1>
+<h1>babi ai lob iu 🩷</h1>
 
 <nav>
   <button onclick="show('carta')">Carta</button>
@@ -29,11 +29,11 @@ section.active { display: block; }
 </nav>
 
 <section id="carta" class="active">
-  <p>escreve aqui depois</p>
+  <p>CARTINHA PRO MEU NENE</p>
 </section>
 
 <section id="musica">
-  <p>links das músicas aqui</p>
+  <p>https://open.spotify.com/playlist/5Q5gFE1kmGLFHhTNLI6NYn?si=Ho6s6mXiTQuyIoFkS3F5Ag&pt=076193588b4395579adf64beb18204fc&pi=9i0NRke8QAKfD</p>
 </section>
 
 <script>
